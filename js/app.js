@@ -27,6 +27,26 @@
     }
 }());
 
+/* ======== MODEL ======= */
+
+let model = {
+
+}
+
+/* ======== OCTOPUS ======= */
+
+let octopus = {
+
+}
+
+
+/* ======== VIEW ======= */
+
+
+let view = {
+
+}
+
 
 /* STUDENT APPLICATION */
 // $(function() {
